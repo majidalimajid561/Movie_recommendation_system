@@ -1,0 +1,28 @@
+# IDE
+
+.vscode/
+
+# Python environment
+
+venv/
+env/
+.env/
+
+# Python cache
+
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Streamlit secrets (if you use them later)
+
+.streamlit/secrets.toml
+
+# OS junk
+
+.DS_Store
+Thumbs.db
+*.log
