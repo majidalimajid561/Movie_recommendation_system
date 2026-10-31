@@ -17,6 +17,7 @@ __pycache__/
 
 .ipynb_checkpoints/
 
+
 # Streamlit secrets (if you use them later)
 
 .streamlit/secrets.toml

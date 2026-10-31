@@ -86,7 +86,7 @@ source venv/bin/activate
 4. streamlit run.py
 
 
-## 13. Technologies
+##  Technologies
 numpy
 Python
 Pandas
@@ -94,6 +94,6 @@ Scikit-learn
 Streamlit
 
 
-## 14. Author
+##  Author
 
 Majid Mehmood
